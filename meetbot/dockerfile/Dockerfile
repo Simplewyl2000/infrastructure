@@ -1,4 +1,4 @@
-FROM alpine
+FROM alpine:3.18.3
 MAINTAINER freesky-edward <freesky-edward@gmail.com>
 
 ENV NICK "openeuler-ci-bot"
