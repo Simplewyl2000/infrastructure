@@ -1,4 +1,4 @@
-FROM ubuntu:14.04
+FROM ubuntu:trusty-20190425
 
 LABEL version="1.0.0"
 LABEL maintainer="developer@openeuler.org"
